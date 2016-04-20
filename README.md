@@ -1,4 +1,5 @@
-# HackDFW2016
+# HomeBaseDefender
+###How much is your home worth to you?
 
 ##Inspiration
 Houses are the biggest investment adults make. Our inspiration for this project came from the staggering cost of fixing home foundation damages. Our product will help the user with warnings before it becomes a danger.
